@@ -1,0 +1,10 @@
+module my.controls
+Button 1.0 Button.qml
+ButtonWithIcon 1.0 ButtonWithIcon.qml
+ComboBox 1.0 ComboBox.qml
+ProgressBar 1.0 ProgressBar.qml
+TabBar 1.0 TabBar.qml
+TabBarButtons 1.0 TabBarButtons.qml
+TabBarWithExtraComponent 1.0 TabBarWithExtraComponent.qml
+TabButton 1.0 TabButton.qml
+Toggle 1.0 Toggle.qml

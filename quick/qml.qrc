@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/my/controls/TabButton.qml</file>
+        <file>qml/my/controls/TabBar.qml</file>
+        <file>qml/my/controls/Button.qml</file>
+        <file>qml/my/controls/qmldir</file>
+        <file>qml/my/controls/ProgressBar.qml</file>
+        <file>qml/my/controls/ButtonWithIcon.qml</file>
+        <file>qml/my/controls/TabBarButtons.qml</file>
+        <file>qml/my/controls/Toggle.qml</file>
+        <file>qml/my/controls/TabBarWithExtraComponent.qml</file>
+        <file>qml/my/controls/ComboBox.qml</file>
+        <file>qml/my/topbar/TopIndicatorBar.qml</file>
+        <file>qml/my/topbar/qmldir</file>
+    </qresource>
+</RCC>
